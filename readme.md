@@ -1,6 +1,6 @@
 # Get started with React Hooks
 
-This is a collection of examples that can help you get started with React Hooks. [View tutorial](#).
+This is a collection of examples that can help you get started with React Hooks. [View tutorial](https://pusher.com/tutorials/react-hooks).
 
 ## Getting Started
 
